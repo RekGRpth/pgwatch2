@@ -35,7 +35,6 @@ require (
 	github.com/shopspring/decimal v1.2.0
 	github.com/tklauser/go-sysconf v0.3.5 // indirect
 	go.etcd.io/etcd v3.3.25+incompatible
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
-	golang.org/x/sys v0.0.0-20210514084401-e8d321eab015 // indirect
+	golang.org/x/crypto v0.17.0
 	gopkg.in/yaml.v2 v2.4.0
 )
